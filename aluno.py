@@ -15,7 +15,7 @@ class Aluno:
     def mostraAluno(self):
         print("Nome: %s" % self.nome)
         print("R.A.: %d" % self.ra)
-	print("Curso: %s" % self.curso)
+	print("curso: %s" % self.curso)
         
         
         
